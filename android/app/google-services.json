@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596024412992",
+    "project_id": "flash-chat-d9e32",
+    "storage_bucket": "flash-chat-d9e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596024412992:android:369429316266157af588a5",
+        "android_client_info": {
+          "package_name": "com.SyedAR.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596024412992-bvsrfb6h1fmubo0254mt8sj0va80jci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhyLOhXmABrgq0yYO5FEmH88IHcGLUq0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596024412992-bvsrfb6h1fmubo0254mt8sj0va80jci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
