@@ -1,4 +1,5 @@
 # Flash-Chat-App
+This is an App that allows users to login and signup to chat with their friends and acquaintances. The database has been implemented using Firebase Firestore and the authentication has been implemented using Firebase Auth.
 
 ![Screenshot_20211025-104336](https://user-images.githubusercontent.com/74962069/138638821-a10ee03b-f639-4f34-8eeb-1c292b63eef9.jpg)
 ![Screenshot_20211025-104342](https://user-images.githubusercontent.com/74962069/138638832-077e928a-d14d-42ec-bad5-bc2624adefe2.jpg)
